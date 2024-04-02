@@ -1,3 +1,5 @@
+#For example if the number is 3, then the factorial is 3*2*1=6 etc
+
 num = int(input("Enter a number: "))
 factorial = 1
 if num <0:
