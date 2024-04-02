@@ -4,4 +4,4 @@ This is a collection of small python projects I have done to practice my Python.
 
 Feel free to look through them!
 
-As a data analyst, Python is probably one of the main languages I use to create charts and data sets for my company. Combined with Power BI, it makes for a powerful duo to create and visualise data.
+As a data analyst, Python is one of the main languages I use to create charts and data sets for my company. Combined with Power BI, it makes for a powerful duo to create and visualise data.
