@@ -5,7 +5,7 @@ game_title = "Word Quest"
 #Set up the list of words to choose from
 word_bank = []
 
-with open("Words.txt") as word_file:
+with open("Word Quest/Words.txt") as word_file:
     for line in word_file:
         word_bank.append(line.rstrip().lower())
 
