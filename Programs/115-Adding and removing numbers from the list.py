@@ -14,3 +14,4 @@ def next_in_line(lst, num):
     
 print(next_in_line([5, 6, 7, 8, 9], 1))
 print(next_in_line([7, 6, 3, 23, 17], 10))
+print(next_in_line([], 6))
